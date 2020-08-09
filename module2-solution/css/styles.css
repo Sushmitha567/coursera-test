@@ -27,6 +27,15 @@ section{
 #sec3{
 	background-color: #F100FF;
 }
+#sec1>h2{
+	background-color: orange;
+}
+#sec2>h2{
+	background-color: #A36FFF;
+}
+#sec3>h2{
+	background-color: #0099FF;
+}
 h2{
 	background-color: orange;
 	padding: 4px;
